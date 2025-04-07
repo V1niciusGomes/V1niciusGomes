@@ -38,6 +38,13 @@
 
 ---
 
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V1niciusGomes&theme=dark&background=1C2526&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak">
+</div>
+
+---
+
 ## 🏆 Troféus do GitHub
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=V1niciusGomes&theme=darkhub&title_color=00FF7F&text_color=FFFFFF&bg_color=1C2526" alt="GitHub Trophies">
@@ -48,15 +55,14 @@
 ## ✍️ Citação Aleatória de Dev (em Português)
 <div align="center">
   <p style="color: #FFFFFF; background-color: #1C2526; padding: 10px; border-radius: 5px; width: 80%;">
-    "O código é como poesia: quando bem escrito, resolve problemas e inspira soluções."  
-    — Adaptado por um dev anônimo
+    "Programar é transformar café em lógica."  
+    — Um dev cansado, mas inspirado
   </p>
 </div>
 
 ---
 
+## 👀 Contador de Visitas
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SEU_USUARIO&icon=0&color=9" alt="Contador de Visitas">
+  <img src="https://visitcount.itsvg.in/api?id=V1niciusGomes&icon=0&color=9" alt="Contador de Visitas">
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

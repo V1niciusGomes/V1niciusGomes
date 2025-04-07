@@ -1,25 +1,62 @@
- Olá 👋<br>- ✌️ Eu sou o Vinícius Gomes.<br>- 🧟 Atualmente não estou trabalhando ...<br>- 🖥️ Atualmente estou estudando Java e JavaScript ...<br>- 😄 Pronomes: Ele/Dele
-    
+<div align="center">
+  <h2 style="color: #00FF7F">Olá 👋</h2>
+</div>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vgs.08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:v1nie0044@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=V1niciusGomes&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=V1niciusGomes&theme=blue-green&hide_border=false)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=V1niciusGomes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- ✌️ Eu sou o **Vinícius Gomes**.  
+- 🧟 **Atualmente**: Não estou trabalhando, mas em busca de novos desafios!  
+- 🖥️ **Estudando**: Java e JavaScript, aprimorando minhas habilidades todos os dias.  
+- 😄 **Pronomes**: Ele/Dele  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=V1niciusGomes&icon=4&color=3)](https://visitcount.itsvg.in)
+
+## 🌐 Redes Sociais
+<div align="center">
+  <a href="https://instagram.com/_vgs.08">
+    <img src="https://img.shields.io/badge/Instagram-%231C2526.svg?logo=Instagram&logoColor=#00FF7F" alt="Instagram">
+  </a>
+  <a href="mailto:v1nie0044@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%231C2526?logo=gmail&logoColor=#00FF7F" alt="Email">
+  </a>
+</div>
+
+---
+
+## 💻 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%231C2526.svg?style=for-the-badge&logo=openjdk&logoColor=#00FF7F" alt="Java">
+  <img src="https://img.shields.io/badge/javascript-%231C2526.svg?style=for-the-badge&logo=javascript&logoColor=#00FF7F" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GoogleCloud-%231C2526.svg?style=for-the-badge&logo=google-cloud&logoColor=#00FF7F" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/bootstrap-%231C2526.svg?style=for-the-badge&logo=bootstrap&logoColor=#00FF7F" alt="Bootstrap">
+</div>
+
+---
+
+## 📊 Estatísticas no GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=00FF7F&text_color=FFFFFF&bg_color=1C2526" alt="GitHub Stats">
+</div>
+
+---
+
+## 🏆 Troféus do GitHub
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&title_color=00FF7F&text_color=FFFFFF&bg_color=1C2526" alt="GitHub Trophies">
+</div>
+
+---
+
+## ✍️ Citação Aleatória de Dev (em Português)
+<div align="center">
+  <p style="color: #FFFFFF; background-color: #1C2526; padding: 10px; border-radius: 5px; width: 80%;">
+    "O código é como poesia: quando bem escrito, resolve problemas e inspira soluções."  
+    — Adaptado por um dev anônimo
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SEU_USUARIO&icon=0&color=9" alt="Contador de Visitas">
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

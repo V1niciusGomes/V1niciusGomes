@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="color: #00FF7F" img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Olá!</h2>
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá
 </div>
 
 - ✌️ Eu sou o **Vinícius Gomes**.  

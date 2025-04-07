@@ -1,5 +1,5 @@
-
-     Olá 👋<br>- ✌️ Eu sou o Vinícius Gomes.<br>- 🧟 Atualmente não estou trabalhando ...<br>- 🖥️ Atualmente estou estudando Java e JavaScript ...<br>- 😄 Pronomes: Ele/Dele
+ Olá 👋<br>- ✌️ Eu sou o Vinícius Gomes.<br>- 🧟 Atualmente não estou trabalhando ...<br>- 🖥️ Atualmente estou estudando Java e JavaScript ...<br>- 😄 Pronomes: Ele/Dele
+    
 
 
 ## 🌐 Socials:

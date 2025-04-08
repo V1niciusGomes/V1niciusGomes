@@ -29,17 +29,17 @@
 
 # 📊 GitHub Stats
 <div align="center" style="margin: 15px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=39ff14&text_color=e0e0e0&icon_color=39ff14" style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=V1niciusGomes&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=39ff14&text_color=e0e0e0&icon_color=39ff14" style="margin-bottom: 10px;">
 </div>
 
 # 🌟 Most Used Languages
 <div align="center" style="background-color: #2b2b2b; padding: 15px; border-radius: 8px; border: 2px solid #39ff14;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=39ff14&text_color=e0e0e0">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusGomes&layout=compact&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=39ff14&text_color=e0e0e0">
 </div>
 
 # 🔝 Top Contributed Repo
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=SEU_REPOSITORIO&theme=radical&bg_color=1a1a1a&title_color=39ff14&text_color=e0e0e0&border_color=39ff14">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1niciusGomes&repo=SEU_REPOSITORIO&theme=radical&bg_color=1a1a1a&title_color=39ff14&text_color=e0e0e0&border_color=39ff14">
 </div>
 
 <div align="center" style="color: #39ff14; font-size: 12px; margin-top: 20px;">

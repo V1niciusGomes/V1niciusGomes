@@ -34,15 +34,10 @@
 ## 📊 Estatísticas no GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=V1niciusGomes&show_icons=true&theme=dark&title_color=00FF7F&text_color=FFFFFF&bg_color=1C2526" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V1niciusGomes&theme=dark&background=1C2526&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak">
+
 </div>
 
 ---
 
-## 🏆 Troféus do GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=V1niciusGomes&theme=darkhub&title_color=00FF7F&text_color=FFFFFF&bg_color=1C2526" alt="GitHub Trophies">
-</div>
 
----
 

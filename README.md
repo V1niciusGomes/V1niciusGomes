@@ -8,7 +8,7 @@
 
 - ✌️ Eu sou o <span style="color: #39ff14;">**Vinícius Gomes**</span>.  
 - 🧟 **Atualmente**: Não estou trabalhando, mas em busca de novos desafios!  
-- 🖥️ **Estudando**: Java e JavaScript, aprimorando minhas habilidades todos os dias.  
+- 🖥️ **Estudando**: Java e aprimorando minhas habilidades todos os dias.  
 - 😄 **Pronomes**: Ele/Dele  
 
 ## 🌐 Socials

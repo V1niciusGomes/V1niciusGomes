@@ -3,9 +3,12 @@
 # 💫 Sobre Mim
 <div align="center"><br>  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  <span style="color: #39ff14; font-size: 24px; font-weight: bold;">Olá!!</span><br>
+  <span style="color: #39ff14; font-size: 34px; font-weight: bold;">Ola!! Eu sou o Gomes</span><br>
 </div><br>
 
+  ### Estudando para me tornar Dev Back-End
+
+🙋‍♂️Vinicius Gomes 👨‍🎓16 anos 🖥Estudando Programação
 - ✌️ Eu sou o <span style="color: #39ff14;">**Vinícius Gomes**</span>.  
 - 🧟 **Atualmente**: Não estou trabalhando, mas em busca de novos desafios!  
 - 🖥️ **Estudando**: Java e aprimorando minhas habilidades todos os dias.  
@@ -19,12 +22,16 @@
 
 # 💻 Tech Stack
 <div align="center" style="background-color: #2b2b2b; padding: 15px; border-radius: 8px; margin: 10px 0;">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" style="margin: 5px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>&nbsp;
+
 </div>
 
 # 📊 GitHub Stats

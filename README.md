@@ -8,7 +8,7 @@
 
   ### Estudando para me tornar Dev Back-End
 
-🙋‍♂️Vinicius Gomes 👨‍🎓16 anos 🖥Estudando Programação
+🙋‍♂️Vinicius Gomes 👨‍🎓17 anos 🖥Estudando Programação
 - ✌️ Eu sou o <span style="color: #39ff14;">**Vinícius Gomes**</span>.  
 - 🧟 **Atualmente**: Não estou trabalhando, mas em busca de novos desafios!  
 - 🖥️ **Estudando**: Java e aprimorando minhas habilidades todos os dias.  

@@ -35,7 +35,7 @@ Estudando para me tornar Dev Back-End<br>
 
 <div align="center">
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:<br>
 <img src="https://github-readme-stats.vercel.app/api?username=V1niciusGomes&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats V1niciusGomes"><br/>
 <br>
 <img src="https://streak-stats.demolab.com/?user=V1niciusGomes&theme=highcontrast&hide_border=false" alt="GitHub Streak V1niciusGomes"><br/>
@@ -43,7 +43,7 @@ Estudando para me tornar Dev Back-End<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusGomes&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs V1niciusGomes">
 <br>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo<br>
 <img src="https://github-contributor-stats.vercel.app/api?username=V1niciusGomes&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Top Contributed Repo V1niciusGomes">
 
 </div>

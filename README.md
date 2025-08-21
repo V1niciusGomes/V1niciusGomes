@@ -1,14 +1,4 @@
-<div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: #e0e0e0; font-family: Arial, sans-serif;">
-
-# 💫 Sobre Mim
-<div align="center"><br>  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  <span style="color: #39ff14; font-size: 34px; font-weight: bold;">Ola!! Eu sou o Gomes</span><br>
-</div><br>
-
-  ### Estudando para me tornar Dev Back-End
-
-
+# 💫 About Me:
 Estudando para me tornar Dev Back-End<br>🙋‍♂️Vinicius Gomes 👨‍🎓17 anos 🖥Estudando Programação<br><br>✌️ Eu sou o Vinícius Gomes.<br>🖥️ Estudando e aprimorando minhas habilidades todos os dias.<br>😄 Pronomes: Ele/Dele
 
 

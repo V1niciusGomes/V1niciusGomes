@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 Estudando para me tornar Dev Back-End<br>🙋‍♂️Vinicius Gomes 👨‍🎓17 anos 🖥Estudando Programação<br><br>✌️ Eu sou o Vinícius Gomes.<br>🖥️ Estudando e aprimorando minhas habilidades todos os dias.<br>😄 Pronomes: Ele/Dele
 
 
@@ -19,3 +19,4 @@ Estudando para me tornar Dev Back-End<br>🙋‍♂️Vinicius Gomes 👨‍🎓
 [![](https://visitcount.itsvg.in/api?id=V1niciusGomes&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://github-readme-stats.vercel.app/api?username=V1niciusGomes)

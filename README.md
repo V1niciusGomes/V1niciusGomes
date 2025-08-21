@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-Estudando para me tornar Dev Back-End<br>
+Estudando para me tornar Dev<br>
 🙋‍♂️Vinicius Gomes 👨‍🎓17 anos 🖥Estudando Programação<br><br>
 ✌️ Eu sou o Vinícius Gomes.<br>
 🖥️ Estudando e aprimorando minhas habilidades todos os dias.<br>

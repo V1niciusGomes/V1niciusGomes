@@ -8,45 +8,24 @@
 
   ### Estudando para me tornar Dev Back-End
 
-🙋‍♂️Vinicius Gomes 👨‍🎓17 anos 🖥Estudando Programação
-- ✌️ Eu sou o <span style="color: #39ff14;">**Vinícius Gomes**</span>.  
-- 🧟 **Atualmente**: Não estou trabalhando, mas em busca de novos desafios!  
-- 🖥️ **Estudando**: Java e aprimorando minhas habilidades todos os dias.  
-- 😄 **Pronomes**: Ele/Dele  
 
-## 🌐 Socials
-<div align="center">
-
-  <a href="mailto:viniciusgomessens@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="margin: 5px;"></a>
-</div>
-
-# 💻 Tech Stack
-<div align="center" style="background-color: #2b2b2b; padding: 15px; border-radius: 8px; margin: 10px 0;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>&nbsp;
-
-</div>
-
-# 📊 GitHub Stats
-<div align="center" style="margin: 15px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=V1niciusGomes&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=39ff14&text_color=e0e0e0&icon_color=39ff14" style="margin-bottom: 10px;">
-</div>
-
-# 🌟 Linguagens Mais Usadas
-<div align="center" style="background-color: #2b2b2b; padding: 15px; border-radius: 8px; border: 2px solid #39ff14;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusGomes&layout=compact&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=39ff14&text_color=e0e0e0">
-</div>
+Estudando para me tornar Dev Back-End<br>🙋‍♂️Vinicius Gomes 👨‍🎓17 anos 🖥Estudando Programação<br><br>✌️ Eu sou o Vinícius Gomes.<br>🖥️ Estudando e aprimorando minhas habilidades todos os dias.<br>😄 Pronomes: Ele/Dele
 
 
-<div align="center" style="color: #39ff14; font-size: 12px; margin-top: 20px;">
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_vgs.08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viniciusgomessens@gmail.com) 
 
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=V1niciusGomes&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=V1niciusGomes&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusGomes&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=V1niciusGomes&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=V1niciusGomes&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,18 +1,18 @@
 <div align="center">
 
 # 💫 About Me:
-Estudando para me tornar Dev<br>
-🙋‍♂️Vinicius Gomes 👨‍🎓17 anos 🖥Estudando Programação<br><br>
-✌️ Eu sou o Vinícius Gomes Sens.<br>
-🖥️ Estudando e aprimorando minhas habilidades todos os dias.<br>
-😄 Pronomes: Ele/Dele
+Me esforçando para ganhar Espaço no mercado de Trabalho<br>
+Vinicius Gomes 17 anos Estudando Programação<br><br>
+ Eu sou o Vinícius Gomes Sens.<br>
+ Estudando e aprimorando minhas habilidades todos os dias.<br>
+ Pronomes: Ele/Dele
 
 </div>
 
 <div align="center">
 
-## 🌐 Socials:
-<a href="https://instagram.com/_vgs.08" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+## 🌐 Contatos:
+
 <a href="mailto:viniciusgomessens@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>

@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-Me esforçando para ganhar Espaço no mercado de Trabalho<br>
+Me esforçando para aproveitar as oportunidades no mercado de Desenvolvimento<br>
 Vinicius Gomes 17 anos Estudando Programação<br><br>
  Eu sou o Vinícius Gomes Sens.<br>
  Estudando e aprimorando minhas habilidades todos os dias.<br>

@@ -13,7 +13,7 @@ Vinicius Gomes 17 anos Estudando Programação<br><br>
 
 ## 🌐 Contatos:
 
-<a><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"> viniciusgomessens@gmail.com</a>
+<p><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"> <br> viniciusgomessens@gmail.com</p>
 
 </div>
 

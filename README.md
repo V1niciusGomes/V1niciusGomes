@@ -76,10 +76,8 @@
   </a>
 </p>
 
-![Top language]
-
-
-(https://stats.pphat.top/languages?username=v1niciusGomes)
+<br/>
+![Top language](https://stats.pphat.top/languages?username=v1niciusGomes)
 <br/>
 
 <p align="center">

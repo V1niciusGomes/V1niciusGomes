@@ -6,6 +6,12 @@
   </a>
 </p>
 
+## 📌 About Me
+- ||Meu nome é Vinícius Gomes Sens
+- ||Atualmente estudando Cybersecurity
+- ||Tenho conhecimentos em Java, Bancos de dados Relacionais, Angular20 e React
+
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/v1niciusGomes">
@@ -64,12 +70,15 @@
 
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=V1niciusGomes)
+<p align="center">
+  <a href="https://github.com/v1niciusGomes">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=v1niciusGomes&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=v1niciusGomes)
 <br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-

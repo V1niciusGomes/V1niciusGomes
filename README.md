@@ -64,7 +64,7 @@
 
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=v1niciusGomes)
+![Top language](https://stats.pphat.top/languages?username=V1niciusGomes)
 <br/>
 
 <p align="center">
